@@ -1,0 +1,9 @@
+html{
+    background-color: black;
+}
+td{
+    color:lightgray
+}
+footer, header{
+    color: lightgrey;
+}
