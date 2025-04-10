@@ -1,9 +1,23 @@
-html{
-    background-color: black;
+table {
+    border-radius: 3cqmax;
+    margin: auto;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-collapse: separate;
+    border-spacing: 10px;
+    background-color:lavender;
+    box-shadow: 40%;
 }
-td{
-    color:lightgray
+
+body{
+    background-color:azure;
 }
-footer, header{
-    color: lightgrey;
+
+h1, h2{
+    text-align: center;
+}
+
+h3{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
